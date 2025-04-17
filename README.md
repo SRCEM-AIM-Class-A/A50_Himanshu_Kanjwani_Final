@@ -1,13 +1,11 @@
-```markdown
 # Web Applications with Flask, Django, and Docker Compose
 
 ## 📌 Overview
 
 This project demonstrates the development and containerization of two web applications — one built using **Flask** and the other using **Django** — both managed using **Docker Compose**.
 
+```markdown
 ## 🧩 Project Structure
-
-```
 SL-3/
 ├── flask-app/
 │   ├── app.py
