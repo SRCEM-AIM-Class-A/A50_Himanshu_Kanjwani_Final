@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Web Applications with Flask, Django, and Docker Compose
 
@@ -101,11 +99,7 @@ docker-compose up --build
 ## 🙋‍♂️ Author
 
 **Himanshu Kanjwani**  
-Student, RBU Nagpur
+Student, RBU Nagpur,
 April 2025
 
 ```
-
----
-
-Let me know if you want it tailored more to your name, course, or need screenshots, badges, or anything extra added!
