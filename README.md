@@ -97,7 +97,4 @@ docker-compose up --build
 ## 🙋‍♂️ Author
 
 **Himanshu Kanjwani**  
-Student, RBU Nagpur,
-April 2025
-
-```
+**Student, RBU Nagpur**
